@@ -16,8 +16,8 @@ function App() {
           <a className="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
+          <a className="nav-link active dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            fitures
           </a>
           <ul className="dropdown-menu">
             <li><a className="dropdown-item" href="/">Action</a></li>
