@@ -39,9 +39,9 @@ export default function TextForm(props) {
         <button type="button" className ="btn btn-primary" onClick={handlePastText}>Past text</button>
     </div>
     <h4>{props.experiment}</h4>
-    <div className='d-grid gap-3 col-4 mx-auto'>
-    <button type="button" className ="btn btn-primary" onClick={handleupcase}>Convert to Upper Case</button>
-    <button type="button" className ="btn btn-success" onClick={handlelowcase}>Convert to lower Case</button>
+    <div>
+    <button type="button" className ="btn btn-primary" onClick={handleupcase}>Upper Case</button>
+    <button type="button" className ="btn btn-success" onClick={handlelowcase}>lower Case</button>
     </div>
     </div>
     <div className='container my-3'>
