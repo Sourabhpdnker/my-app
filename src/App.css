@@ -1,6 +1,10 @@
 .App {
   text-align: center;
-  background-color: rgb(253, 222, 174);
+  background-color: rgb(255, 209, 140);
+}
+.myName {
+  color: rgb(3, 12, 138);
+  font-size: 50px;
 }
 
 .App-logo {

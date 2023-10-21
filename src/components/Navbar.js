@@ -22,7 +22,7 @@ export default function Navbar() {
               <li><a className="dropdown-item" href="/">Upper Case </a></li>
               <li><a className="dropdown-item" href="/">Lower Case</a></li>
               <li><hr className="dropdown-divider"/></li>
-              <li><a className="dropdown-item" href="/">Something </a></li>
+              <li><a className="dropdown-item" href="/">Something else here</a></li>
             </ul>
           </li>
           <li className="nav-item">
